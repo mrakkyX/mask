@@ -1,6 +1,6 @@
 Immersive Video Template
 
-=========
+=========+
 
 An immersive transition effect powered by image masks and CSS transforms.
 
